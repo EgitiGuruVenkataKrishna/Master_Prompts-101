@@ -1,3 +1,4 @@
+
 Prompts-101
 
 A structured collection of high-quality prompt templates designed for students, professionals, and AI power users working with modern Large Language Models (LLMs).
@@ -7,20 +8,40 @@ This repository provides practical prompts, reusable templates, and structured w
 ---
 
 Purpose of This Repository
+=======
+# Prompts-101
+
+A structured collection of **high-quality prompt templates** designed for students, professionals, and AI power users working with modern Large Language Models (LLMs).
+
+This repository provides **practical prompts, reusable templates, and structured workflows** to help users get better results from AI systems.
+
+---
+
+# Purpose of This Repository
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 
 Most people use AI tools inefficiently because they do not structure prompts properly.
 This repository solves that problem by providing:
 
+<<<<<<< HEAD
 - Structured prompt templates
 - Real-world prompt examples
 - Reusable prompt patterns
 - AI workflow prompts
 - Prompt engineering fundamentals
+=======
+* Structured prompt templates
+* Real-world prompt examples
+* Reusable prompt patterns
+* AI workflow prompts
+* Prompt engineering fundamentals
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 
 All prompts are designed to work across major LLM platforms.
 
 ---
 
+<<<<<<< HEAD
 Who This Repository Is For
 
 Students
@@ -58,6 +79,46 @@ Advanced users will find prompts for:
 
 Repository Structure
 
+=======
+# Who This Repository Is For
+
+### Students
+
+Students can use these prompts for:
+
+* academic preparation
+* research assistance
+* project planning
+* learning new skills
+* generating ideas
+* internship preparation
+
+### Working Professionals
+
+Professionals can use these prompts for:
+
+* productivity and workflow optimization
+* business strategy
+* marketing content
+* automation planning
+* research and analysis
+* leadership development
+
+### AI Power Users
+
+Advanced users will find prompts for:
+
+* reasoning workflows
+* prompt chaining
+* AI agent design
+* structured thinking prompts
+
+---
+
+# Repository Structure
+
+```
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 Prompts-101
 │
 ├── 01_PROMPT_FUNDAMENTALS
@@ -83,6 +144,7 @@ Prompts-101
 ├── 05_PROMPT_COMPONENT_LIBRARY
 │
 └── 06_REAL_WORLD_PROMPTS
+<<<<<<< HEAD
 
 ---
 
@@ -90,6 +152,17 @@ Prompt Design Standard
 
 All prompts in this repository follow a structured format.
 
+=======
+```
+
+---
+
+# Prompt Design Standard
+
+All prompts in this repository follow a structured format.
+
+```
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 Act as a [ROLE]
 
 Objective:
@@ -106,6 +179,7 @@ Constraints:
 
 Output Requirements:
 [EXPECTED_OUTPUT_FORMAT]
+<<<<<<< HEAD
 
 This structure improves:
 
@@ -119,6 +193,23 @@ Example Prompt
 
 Study Plan Generator
 
+=======
+```
+
+This structure improves:
+
+* response quality
+* reasoning depth
+* output clarity
+
+---
+
+# Example Prompt
+
+### Study Plan Generator
+
+```
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 Act as an academic tutor.
 
 Objective:
@@ -141,24 +232,41 @@ Provide:
 1. Daily study schedule
 2. Weekly revision plan
 3. Practice test strategy
+<<<<<<< HEAD
 
 ---
 
 How To Use These Prompts
+=======
+```
+
+---
+
+# How To Use These Prompts
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 
 1. Open any prompt file
 2. Copy the prompt template
 3. Replace placeholders such as:
 
+<<<<<<< HEAD
 [GOAL]
 [TOPIC]
 [INPUT]
+=======
+```
+[GOAL]
+[TOPIC]
+[INPUT]
+```
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 
 4. Paste the prompt into your preferred AI model
 5. Adjust based on your needs
 
 ---
 
+<<<<<<< HEAD
 Prompt Categories
 
 This repository includes prompts for:
@@ -191,11 +299,46 @@ AI Power Users
 ---
 
 Contribution
+=======
+# Prompt Categories
+
+This repository includes prompts for:
+
+### Students
+
+* Startup and SaaS ideas
+* Academic preparation
+* Content creation
+* Extracurricular learning
+* Research and projects
+* Career preparation
+
+### Professionals
+
+* Productivity systems
+* Business strategy
+* Marketing content
+* AI automation
+* Research analysis
+* Career growth
+
+### AI Power Users
+
+* reasoning prompts
+* chain-of-thought prompting
+* prompt chaining
+* agent-style workflows
+
+---
+
+# Contribution
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
 
 Contributions are welcome.
 
 You can contribute by:
 
+<<<<<<< HEAD
 - adding new prompts
 - improving existing prompts
 - adding real-world workflows
@@ -228,3 +371,37 @@ Final Note
 Better prompts produce better results.
 
 Learning how to structure prompts properly is one of the most important skills when working with modern AI systems.
+=======
+* adding new prompts
+* improving existing prompts
+* adding real-world workflows
+* fixing prompt clarity
+
+Please ensure new prompts follow the **standard prompt structure** used in this repository.
+
+---
+
+# Future Additions
+
+Planned additions include:
+
+* Real-world professional prompts
+* Multi-step AI workflows
+* Startup building prompts
+* Research assistant prompts
+* AI automation systems
+
+---
+
+# License
+
+This project is released under the **MIT License**, allowing free use and modification.
+
+---
+
+# Final Note
+
+Better prompts produce better results.
+
+Learning how to **structure prompts properly** is one of the most important skills when working with modern AI systems.
+>>>>>>> 2f42efc (Initial Commit of Master Prompts..)
