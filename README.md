@@ -1,5 +1,7 @@
 # Prompts-101
 
+⭐ If this repository helps you, please give it a star.
+
 A structured collection of **high-quality prompt templates** for students, professionals, and AI power users.
 
 This repository helps users get **better results from AI tools** by providing structured prompt templates that work across major LLMs.
