@@ -1,13 +1,14 @@
-⭐ If this repository helps you, please give it a star.
-
 # Prompts-101
+
+⭐ **If you find this repository useful, consider giving it a star. It helps others discover it.**
 
 A structured collection of **practical prompt templates** designed to help people use Large Language Models (LLMs) more effectively.
 
-This repository focuses on **clear prompt structure, real use cases, and reusable templates** for students and working professionals.
+This repository focuses on **clear prompt structure, real use cases, and reusable templates** for students, professionals, and AI users.
 
 The goal is simple:
-help users move from **random AI queries → structured AI interaction**.
+
+**Move from random AI queries → structured AI interaction.**
 
 ---
 
@@ -20,19 +21,19 @@ Many people use AI tools like:
 * Gemini
 * Copilot
 
-But most prompts are **unstructured and vague**, which leads to weak responses.
+But most prompts are **unstructured and vague**, which often leads to average responses.
 
-This repository organizes prompts into **clear patterns and real scenarios** so users can:
+This repository organizes prompts into **clear patterns and practical use cases** so users can:
 
-• ask better questions
-• get structured outputs
-• improve productivity with AI
+* ask better questions
+* get structured responses
+* use AI more effectively for real tasks
 
 ---
 
 # Repository Structure
 
-```
+```text
 Prompts-101
 │
 ├── 01_PROMPT_FUNDAMENTALS
@@ -56,31 +57,49 @@ Prompts-101
 │   ├── ai_automation
 │   ├── research_and_analysis
 │   └── career_growth_and_leadership
+│
+├── 04_AI_POWER_USER_PROMPTS
+│   ├── ai_agents_prompts.md
+│   ├── chain_of_thought_prompts.md
+│   ├── prompt_chaining.md
+│   └── reasoning_prompts.md
+│
+├── 05_PROMPT_COMPONENT_LIBRARY
+│   ├── role_library.md
+│   ├── output_format_library.md
+│   └── constraint_patterns.md
+│
+└── 06_PROMPT_PLAYBOOK
+    └── PROMPT_PLAYBOOK.md
 ```
 
 ---
 
-# What You Will Find Here
+# What You Will Find in This Repository
 
 ## Prompt Fundamentals
 
-Core concepts for writing effective prompts:
+Core ideas behind effective prompt design.
+
+Topics include:
 
 * universal prompt structure
-* design principles
-* common patterns
-* typical mistakes to avoid
+* prompt design principles
+* common prompt patterns
+* mistakes to avoid
+
+These help users understand **how prompts influence AI responses**.
 
 ---
 
 ## Student Prompt Templates
 
-Prompts designed for common student use cases:
+Prompts designed for common student tasks:
 
 * startup and SaaS idea generation
 * academic study planning
 * content creation
-* extracurricular skill development
+* extracurricular skill learning
 * research and projects
 * internship preparation
 
@@ -90,20 +109,72 @@ Prompts designed for common student use cases:
 
 Prompts useful in professional environments:
 
-* productivity and workflow optimization
+* productivity and workflow planning
 * business strategy analysis
 * marketing and content planning
 * AI workflow automation
 * research and analysis
-* career development
+* career growth and leadership
+
+---
+
+## AI Power User Prompts
+
+Advanced prompting techniques for complex tasks.
+
+Includes prompts for:
+
+* step-by-step reasoning
+* prompt chaining
+* AI agent style workflows
+* structured analysis
+
+These prompts help when working with **more complex problems or workflows**.
+
+---
+
+## Prompt Component Library
+
+Reusable components used to build prompts.
+
+Includes:
+
+* role library
+* output format patterns
+* constraint patterns
+
+These components make it easier to **design custom prompts quickly**.
+
+---
+
+## Prompt Playbook
+
+The Prompt Playbook demonstrates **real workflows using prompts**.
+
+Examples include:
+
+* research workflow
+* startup idea workflow
+* learning workflow
+* content creation workflow
+* problem solving workflow
+
+This section shows how **multiple prompts can work together** to complete a task.
+
+Location:
+
+```
+06_PROMPT_PLAYBOOK/PROMPT_PLAYBOOK.md
+```
 
 ---
 
 # Standard Prompt Structure Used
 
-Most prompts in this repository follow a simple structure:
+Most prompts in this repository follow a structured format.
 
-Act as a **[ROLE]**
+```
+Act as a [ROLE]
 
 Objective:
 [WHAT YOU WANT TO ACHIEVE]
@@ -119,8 +190,9 @@ Constraints:
 
 Output Format:
 [EXPECTED RESPONSE STRUCTURE]
+```
 
-This structure helps AI systems produce **more consistent and useful responses**.
+This structure helps AI systems produce **clearer and more consistent outputs**.
 
 ---
 
@@ -145,15 +217,15 @@ Daily Study Time:
 
 Output:
 
-• daily study schedule
-• revision plan
-• practice test strategy
+* daily study schedule
+* revision strategy
+* practice test plan
 
 ---
 
 # How to Use This Repository
 
-1. Navigate to a prompt file
+1. Open a prompt file
 2. Copy the prompt template
 3. Replace placeholders such as:
 
@@ -163,19 +235,22 @@ Output:
 [INPUT]
 ```
 
-4. Use the prompt in your preferred AI tool
+4. Use the prompt in your preferred AI tool.
 
 ---
 
 # Current Scope
 
-This repository currently includes:
+This repository currently provides:
 
-• Prompt fundamentals
-• Student use-case prompts
-• Professional workflow prompts
+* prompt fundamentals
+* student use-case prompts
+* professional workflow prompts
+* advanced prompting techniques
+* reusable prompt components
+* real workflow examples
 
-Additional sections will be added over time.
+More prompt patterns and real use cases may be added over time.
 
 ---
 
@@ -183,11 +258,11 @@ Additional sections will be added over time.
 
 Contributions are welcome.
 
-If you want to contribute:
+Possible contributions include:
 
-* improve prompt clarity
-* add new prompt templates
-* suggest real-world prompt workflows
+* improving prompt clarity
+* adding new prompt templates
+* sharing real prompt workflows
 
 Please keep prompts **clear, practical, and structured**.
 
@@ -196,10 +271,3 @@ Please keep prompts **clear, practical, and structured**.
 # License
 
 MIT License
-
----
-
-# Note
-
-The prompts in this repository are meant to serve as **starting templates**.
-They may need to be adjusted depending on your specific context or AI model.
