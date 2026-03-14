@@ -1,18 +1,32 @@
-# Prompts-101
-
 ⭐ If this repository helps you, please give it a star.
 
-A structured collection of **high-quality prompt templates** for students, professionals, and AI power users.
+# Prompts-101
 
-This repository helps users get **better results from AI tools** by providing structured prompt templates that work across major LLMs.
+A structured collection of **practical prompt templates** designed to help people use Large Language Models (LLMs) more effectively.
 
-Compatible with:
+This repository focuses on **clear prompt structure, real use cases, and reusable templates** for students and working professionals.
+
+The goal is simple:
+help users move from **random AI queries → structured AI interaction**.
+
+---
+
+# Why This Repository Exists
+
+Many people use AI tools like:
 
 * ChatGPT
 * Claude
 * Gemini
-* Perplexity
 * Copilot
+
+But most prompts are **unstructured and vague**, which leads to weak responses.
+
+This repository organizes prompts into **clear patterns and real scenarios** so users can:
+
+• ask better questions
+• get structured outputs
+• improve productivity with AI
 
 ---
 
@@ -22,103 +36,170 @@ Compatible with:
 Prompts-101
 │
 ├── 01_PROMPT_FUNDAMENTALS
+│   ├── universal_prompt_structure.md
+│   ├── prompt_design_principles.md
+│   ├── prompt_patterns.md
+│   └── common_prompt_mistakes.md
+│
 ├── 02_STUDENTS
+│   ├── saas_and_creative_ideas
+│   ├── academic_subject_preparation
+│   ├── content_creation
+│   ├── extracurricular_learning
+│   ├── projects_and_research
+│   └── career_and_internships
+│
 ├── 03_WORKING_PROFESSIONALS
-├── 04_AI_POWER_USER_PROMPTS
-└── 05_PROMPT_COMPONENT_LIBRARY
+│   ├── productivity_and_workflow
+│   ├── business_and_strategy
+│   ├── marketing_and_content
+│   ├── ai_automation
+│   ├── research_and_analysis
+│   └── career_growth_and_leadership
 ```
 
 ---
 
-# Prompt Design Philosophy
-
-All prompts in this repository follow a structured format:
-
-```
-Act as a [ROLE]
-
-Objective:
-[GOAL]
-
-Context:
-[BACKGROUND]
-
-Inputs:
-[USER DATA]
-
-Constraints:
-[RULES]
-
-Output Format:
-[EXPECTED OUTPUT]
-```
-
-This structure improves:
-
-* reasoning quality
-* response accuracy
-* structured outputs
-
----
-
-# Sections
+# What You Will Find Here
 
 ## Prompt Fundamentals
 
-Learn how prompts work and how to structure them properly.
+Core concepts for writing effective prompts:
 
-## Students
+* universal prompt structure
+* design principles
+* common patterns
+* typical mistakes to avoid
 
-Prompts for:
+---
 
-* academic preparation
-* startup ideas
-* projects
+## Student Prompt Templates
+
+Prompts designed for common student use cases:
+
+* startup and SaaS idea generation
+* academic study planning
 * content creation
-* internships
-
-## Working Professionals
-
-Prompts for:
-
-* productivity
-* business strategy
-* marketing
-* automation
-* career growth 
-
-# until this clear instructions are provided
-
-### This Part Will be Updated Soon...
-
-## AI Power User Prompts
-
-Advanced prompt techniques like:
-
-* chain of thought reasoning
-* prompt chaining
-* AI agents
-* deep reasoning
-
-## Prompt Component Library
-
-Reusable building blocks for prompts:
-
-* roles
-* constraints
-* output formats
+* extracurricular skill development
+* research and projects
+* internship preparation
 
 ---
 
-# How To Use
+## Professional Prompt Templates
 
-1. Open a prompt file
-2. Copy the prompt
-3. Replace placeholders like `[TOPIC]`
-4. Paste into your preferred AI model
+Prompts useful in professional environments:
+
+* productivity and workflow optimization
+* business strategy analysis
+* marketing and content planning
+* AI workflow automation
+* research and analysis
+* career development
 
 ---
 
-# Goal of This Repository
+# Standard Prompt Structure Used
 
-Help people learn **practical prompt engineering** and use AI tools more effectively.
+Most prompts in this repository follow a simple structure:
+
+Act as a **[ROLE]**
+
+Objective:
+[WHAT YOU WANT TO ACHIEVE]
+
+Context:
+[BACKGROUND INFORMATION]
+
+Inputs:
+[DATA OR DETAILS]
+
+Constraints:
+[RULES OR LIMITATIONS]
+
+Output Format:
+[EXPECTED RESPONSE STRUCTURE]
+
+This structure helps AI systems produce **more consistent and useful responses**.
+
+---
+
+# Example Prompt
+
+Act as an academic tutor.
+
+Objective:
+Create a study plan.
+
+Exam:
+[EXAM NAME]
+
+Subjects:
+[SUBJECT LIST]
+
+Available Study Days:
+[DAYS]
+
+Daily Study Time:
+[HOURS]
+
+Output:
+
+• daily study schedule
+• revision plan
+• practice test strategy
+
+---
+
+# How to Use This Repository
+
+1. Navigate to a prompt file
+2. Copy the prompt template
+3. Replace placeholders such as:
+
+```
+[TOPIC]
+[GOAL]
+[INPUT]
+```
+
+4. Use the prompt in your preferred AI tool
+
+---
+
+# Current Scope
+
+This repository currently includes:
+
+• Prompt fundamentals
+• Student use-case prompts
+• Professional workflow prompts
+
+Additional sections will be added over time.
+
+---
+
+# Contributing
+
+Contributions are welcome.
+
+If you want to contribute:
+
+* improve prompt clarity
+* add new prompt templates
+* suggest real-world prompt workflows
+
+Please keep prompts **clear, practical, and structured**.
+
+---
+
+# License
+
+MIT License
+
+---
+
+# Note
+
+The prompts in this repository are meant to serve as **starting templates**.
+They may need to be adjusted depending on your specific context or AI model.
