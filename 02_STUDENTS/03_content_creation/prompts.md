@@ -1,32 +1,75 @@
-
 # Content Creation Prompts
 
-## YouTube Idea Generator
+These prompts help students create content using AI.
 
-Act as a content strategist.
+---
+
+# 1. YouTube Idea Generator
+
+Act as a YouTube strategist.
 
 Channel Topic:
 [TOPIC]
 
-Audience:
+Target Audience:
 [AUDIENCE]
 
 Generate:
-10 video ideas with hooks.
+
+10 video ideas including:
+
+* title
+* hook
+* content angle
 
 ---
 
-## Script Generator
+# 2. YouTube Script Generator
 
-Act as a professional YouTube script writer.
+Act as a professional script writer.
+
+Video Topic:
+[TOPIC]
+
+Video Length:
+[MINUTES]
+
+Structure:
+
+1. Hook
+2. Introduction
+3. Main points
+4. Conclusion
+5. Call to action
+
+---
+
+# 3. Social Media Content Generator
+
+Act as a social media strategist.
 
 Topic:
 [TOPIC]
 
-Video Length:
-[LENGTH]
+Platform:
+[PLATFORM]
 
-Output:
-Hook
-Main sections
-Conclusion
+Generate:
+
+* 5 engaging post ideas
+* include hooks
+
+---
+
+# 4. Blog Post Outline Generator
+
+Act as a content writer.
+
+Topic:
+[TOPIC]
+
+Generate:
+
+* blog title
+* outline
+* key sections

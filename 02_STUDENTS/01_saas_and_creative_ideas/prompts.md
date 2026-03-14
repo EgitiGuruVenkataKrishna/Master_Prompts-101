@@ -1,49 +1,79 @@
-
 # SaaS and Creative Idea Prompts
 
-## SaaS Idea Generator
+These prompts help students generate startup and SaaS ideas.
 
-Use Case: Generate SaaS ideas solving real problems.
+---
 
-Prompt Template
+# 1. SaaS Idea Generator
 
 Act as a startup strategist.
 
 Objective:
-Generate 5 SaaS ideas.
+Generate SaaS ideas solving real-world problems.
 
-Target Audience:
+Target Users:
 [TARGET_USERS]
 
 Industry:
 [INDUSTRY]
 
 Constraints:
-Focus on problems with real demand.
+Ideas should be realistic and solve actual problems.
 
-Output:
-Table with Idea | Problem | Solution | Monetization.
+Output Format:
+Table with columns:
 
-Example Input
-TARGET_USERS: students
-INDUSTRY: education tech
+| Idea | Problem | Solution | Monetization |
 
 ---
 
-## Startup Idea Validator
+# 2. Startup Idea Validator
 
 Act as a startup advisor.
 
-Evaluate this idea:
-
-Idea:
+Startup Idea:
 [IDEA]
 
-Target Market:
-[MARKET]
+Target Users:
+[USERS]
 
 Provide:
-1. Market demand
-2. Competitors
-3. Risks
-4. Improvement suggestions
+
+1. Market demand analysis
+2. Potential competitors
+3. Monetization model
+4. Major risks
+5. Improvement suggestions
+
+---
+
+# 3. Problem Discovery Prompt
+
+Act as a product researcher.
+
+Target Audience:
+[AUDIENCE]
+
+Goal:
+Find real problems faced by this audience.
+
+Output:
+List of 10 problems with explanation.
+
+---
+
+# 4. MVP Feature Planner
+
+Act as a product manager.
+
+Startup Idea:
+[IDEA]
+
+Goal:
+Design the first MVP version.
+
+Provide:
+
+* core features
+* non-essential features
+* development priorities

@@ -1,25 +1,67 @@
-
 # Career and Internship Prompts
 
-## Resume Improver
+Prompts to help students prepare for careers.
+
+---
+
+# 1. Resume Improver
 
 Act as a hiring manager.
 
 Resume:
-[PASTE_RESUME]
+[PASTE RESUME]
 
-Suggest:
-- improvements
-- skill additions
+Provide:
+
+* weak areas
+* improvement suggestions
+* better wording
 
 ---
 
-## Mock Interview Prompt
+# 2. Mock Interview Generator
 
 Act as an interviewer.
 
-Role:
+Job Role:
 [ROLE]
 
-Ask:
-10 technical questions.
+Generate:
+
+* 10 technical questions
+* 5 behavioral questions
+
+---
+
+# 3. Skill Gap Analyzer
+
+Act as a career advisor.
+
+Target Career:
+[CAREER]
+
+Current Skills:
+[SKILLS]
+
+Provide:
+
+* skill gaps
+* recommended learning path
+
+---
+
+# 4. Internship Strategy Prompt
+
+Act as a career strategist.
+
+Field:
+[FIELD]
+
+Goal:
+Help me secure an internship.
+
+Provide:
+
+* preparation steps
+* skills to learn
+* application strategy

@@ -1,26 +1,61 @@
+# Projects and Research
 
-# Research and Project Prompts
+These prompts help students with research and academic projects.
 
-## Research Topic Generator
+---
 
-Act as a research advisor.
+# 1. Research Topic Generator
+
+Act as an academic researcher.
 
 Field:
 [FIELD]
 
 Generate:
-10 research topics.
+
+10 interesting research topics.
 
 ---
 
-## Literature Review Prompt
+# 2. Literature Review Prompt
 
-Act as an academic researcher.
+Act as a research assistant.
 
-Topic:
+Research Topic:
 [TOPIC]
 
 Provide:
-- Key research areas
-- Important themes
-- Possible research gaps
+
+* important research areas
+* key papers
+* research gaps
+
+---
+
+# 3. Project Roadmap Generator
+
+Act as a project advisor.
+
+Project Idea:
+[PROJECT]
+
+Provide:
+
+1. development roadmap
+2. required tools
+3. major milestones
+
+---
+
+# 4. Dataset Discovery Prompt
+
+Act as a data research assistant.
+
+Project Topic:
+[TOPIC]
+
+Find:
+
+* useful datasets
+* data sources
+* possible research applications

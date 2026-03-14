@@ -1,34 +1,56 @@
-
 # Universal Prompt Structure
 
-## Standard Template
+A well-structured prompt produces better results.
 
-Act as a [ROLE].
-
-Objective:
-[GOAL]
-
-Context:
-[BACKGROUND]
-
-Inputs:
-1. [INPUT_1]
-2. [INPUT_2]
-
-Constraints:
-[CONSTRAINTS]
-
-Output Requirements:
-[OUTPUT_STRUCTURE]
+Use this format when designing prompts.
 
 ---
 
-### Placeholder Guide
+## Standard Prompt Template
 
-| Placeholder | Meaning |
-|---|---|
-| ROLE | Expert persona |
-| GOAL | Task objective |
-| INPUT | User data |
-| CONSTRAINTS | Limits |
-| OUTPUT_STRUCTURE | Desired format |
+Act as a **[ROLE]**.
+
+Objective:
+[WHAT YOU WANT TO ACHIEVE]
+
+Context:
+[BACKGROUND INFORMATION]
+
+Inputs:
+[DATA OR DETAILS]
+
+Constraints:
+[LIMITATIONS OR RULES]
+
+Output Format:
+[STRUCTURE OF RESPONSE]
+
+---
+
+## Example Prompt
+
+Act as an academic tutor.
+
+Objective:
+Help me understand a complex topic.
+
+Topic:
+[TOPIC]
+
+Constraints:
+
+* Explain in simple language
+* Provide examples
+
+Output Format:
+Step-by-step explanation.
+
+---
+
+## Why This Works
+
+This structure helps the model:
+
+* understand its role
+* focus on the task
+* follow clear output instructions
